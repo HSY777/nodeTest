@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bmp-js": "^0.1.0",
+    "buffer": "^6.0.3",
     "fs": "0.0.1-security",
     "jpeg-js": "^0.4.3"
   }
